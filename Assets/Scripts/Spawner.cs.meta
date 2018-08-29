@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 42d174ff04c8065479efcf48c10c7d19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WhiteCircle: {fileID: 21300000, guid: 63958f27904f4d24082e533b30c8b129, type: 3}
+  - WhiteHexagon: {fileID: 21300000, guid: 49042feb13b15a44bb73ee953db5fce5, type: 3}
+  - WhiteSquare: {fileID: 21300000, guid: 79848bbc23f37e74fa635ef704227e63, type: 3}
+  - WhiteTriangle: {instanceID: 0}
+  - OrangeCircle: {instanceID: 0}
+  - OrangeHexagon: {instanceID: 0}
+  - OrangeSquare: {instanceID: 0}
+  - OrangeTriangle: {instanceID: 0}
+  - GreenCircle: {instanceID: 0}
+  - GreenHexagon: {instanceID: 0}
+  - GreenSquare: {instanceID: 0}
+  - GreenTriangle: {instanceID: 0}
+  - BlueCircle: {instanceID: 0}
+  - BlueHexagon: {instanceID: 0}
+  - BlueSquare: {instanceID: 0}
+  - BlueTriangle: {instanceID: 0}
+  - livesLabel: {instanceID: 0}
+  - untappableLabel: {instanceID: 0}
+  - levelLabel: {instanceID: 0}
+  - gameOverUI: {instanceID: 0}
+  - gameOverButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
